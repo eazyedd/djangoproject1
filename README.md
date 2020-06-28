@@ -1,0 +1,2 @@
+# djangoproject1
+DjangoFirstProject
